@@ -1,0 +1,33 @@
+NOTES  
+
+IMP OF PYTHON
+
+
+
+i ) PYTHON IS EASY TO LEARN
+ii ) python has really good databse
+iii) python versatile
+iv) python has very big libaray
+
+iv)python can be used in machine learning
+
+v) python can be used in datascience/data analytics
+
+vi) python can be used webdevlopment also
+
+vii) it famous libaray like matplot.lib and pandas...and many more
+
+viii) it can be used in GUI (Graphical User Interface)
+
+
+
+***comments***
+
+imp of comments
+
+i) comment are those lines of codes in python whihc does not run , it is only used to indetify the code which is written in program
+
+ii) helpful for begiiners as well as expericed to understand the code
+
+iii) it make code more readable / easier to understand
+
