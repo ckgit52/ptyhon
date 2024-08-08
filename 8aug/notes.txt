@@ -31,3 +31,59 @@ ii) helpful for begiiners as well as expericed to understand the code
 
 iii) it make code more readable / easier to understand
 
+
+# THIS IS SIGLE LINE COMMENTS
+
+
+
+"""
+
+IN THIS WE CAN WRITE ANY LINE OF COMMENTS
+
+"""
+
+
+VARIABLE NAMING CODITION FOR A PROPER VARIBLE NAME
+
+
+i) variable name should not start with number
+
+ii) varible name shold not be a be a keyword of python  (like class, def,__init__ ....etc)
+
+iii) it should contain (A-Z) (a-z) (0-9)
+
+iv) it should not contain any symbol
+
+v) it can start with _ , and alphabet
+
+vi) it is case sensitive age,AGE  both are considered to bhi diffrent
+
+
+
+#following are exmaples of valid variable names
+
+# _name="chandan"
+# _name1="saksham"
+
+# name2="satya"
+# name_2="nassa"
+
+# print(_name)
+# print(_name1)
+# print(name2)
+# print(name_2)
+
+
+
+#following are exmaples of invalid variable names
+
+# 9name="heart"
+# @name="zero"
+
+# name-hello="hi hello"
+
+# class="saksham"
+
+
+
+
